@@ -1,0 +1,5 @@
+---
+- lineinfile:
+    dest=/etc/rsyslog.d/50-default.conf
+    regexp=".*/var/log/ipsec.log"
+    state=absent 
