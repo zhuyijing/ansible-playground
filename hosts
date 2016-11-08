@@ -1,0 +1,2 @@
+[web]
+127.0.0.1 ansible_ssh_user=stack ansible_ssh_pass=sdnsdnLab4man1
